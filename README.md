@@ -29,6 +29,7 @@ The framework is deployed within a controlled virtual network consisting of two 
   - **hping Rules:** To capture targeted flooding and custom packet crafts.
   - **Nmap Rules:** To detect active network probing and stealth port scanning.
 <img width="434" height="362" alt="nmap ping and dos rules" src="https://github.com/user-attachments/assets/56e7c574-127c-40ba-a2ef-9bc855a23e0e" />
+
 Attack Detection- ICMP
 
 <img width="953" height="418" alt="icmp detection" src="https://github.com/user-attachments/assets/a09323d5-7b5e-41eb-a1d7-48973da683b5" />
