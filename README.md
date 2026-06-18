@@ -29,10 +29,22 @@ The framework is deployed within a controlled virtual network consisting of two 
   - **hping Rules:** To capture targeted flooding and custom packet crafts.
   - **Nmap Rules:** To detect active network probing and stealth port scanning.
 <img width="434" height="362" alt="nmap ping and dos rules" src="https://github.com/user-attachments/assets/56e7c574-127c-40ba-a2ef-9bc855a23e0e" />
+Attack Detection- ICMP
+
+<img width="953" height="418" alt="icmp detection" src="https://github.com/user-attachments/assets/a09323d5-7b5e-41eb-a1d7-48973da683b5" />
+
+Attack Detection -hping
+
+<img width="958" height="467" alt="ddos detection " src="https://github.com/user-attachments/assets/e0c8d779-850b-4c30-a2fc-b84b755ffbbe" />
+
+Attack Detection -nmap
+
+<img width="937" height="352" alt="nmap detection" src="https://github.com/user-attachments/assets/96aa52e3-04c4-4287-a02a-9c6fa9e35634" />
 
 ### ✅ Phase 4: Financial Testbed Deployment & Application Hosting (Completed)
 - **Hosted and Launched the Website:** Successfully deployed the **Altoro Mutual Banking Website** live on the Ubuntu server. Tested the application to ensure it is fully accessible and working properly as a realistic financial target.
 <img width="471" height="293" alt="docker building command" src="https://github.com/user-attachments/assets/145de1e4-3355-4d81-a922-65524d18352f" />
+
 Live website
 <img width="953" height="416" alt="altora mutual" src="https://github.com/user-attachments/assets/cee69a31-dfef-48fc-824c-532bd857dcad" />
 
